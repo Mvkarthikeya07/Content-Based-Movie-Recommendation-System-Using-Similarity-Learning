@@ -1,13 +1,6 @@
-🎬 Movie Recommendation System
+🎬 Content-Based Movie Recommendation System Using Similarity Learning
 
 A Content-Based Movie Recommendation Web Application
-
-
-
-
-
-
-
 
 📌 Overview
 
